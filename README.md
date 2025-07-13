@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Hi, I'm Subhadra Mishra 👋</strong></h1>
-<p align="center">🧠 Writing code, googling errors, chasing breakthroughs</p>
+<p align="center">🧠 Writing Code, Googling Errors, Chasing Breakthroughs</p>
 
 <p align="center">
   <a href="mailto:subhadramishrag@gmail.com">📧 Email</a> •
@@ -11,13 +11,13 @@
 
 ### 💡 About Me
 
-- 🎓 CS Graduate Student @ Indiana University Bloomington (GPA: 3.6)
-- 💼 Schedule Director at WTIU/WFIU | Graduate TA for Network Security
-- 👨‍💻 Previously at MyEdMaster (Software Developer) & Bartleby (Sr. SME)
+- 🎓 CS Graduate Student @ Indiana University Bloomington 
+- 💼 Broadcast TMC and Production Data Analyst at WTIU/WFIU - Indiana Public Media
+- 👨‍💻 Ex-SDE @MyEdMaster & Sr. Tech-SME @Bartleby
 - 🌐 Passionate about **Data, AI, Cloud, Security, Automation, MLOps, Full-Stack**
 - 🔧 Targeting roles in:
-  - **SRE**, **QA/Automation**, **Data Engineering**, **Cloud**, **MLOps**
-  - **ML Engineering**, **Test Engineering**, **AI-Enabled Development**
+  - **SRE**, **QA/Automation**, **Data Engineering**, **Cloud**, **MLOps**, and related
+  - **ML Engineering**, **Test Engineering**, **AI-Enabled Development**, and related
 - 📈 Advocate of clean, test-driven, and scalable systems
 
 ---
