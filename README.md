@@ -11,14 +11,15 @@
 
 ### 💡 About Me
 
-- 🎓 CS Graduate Student @ Indiana University Bloomington 
-- 💼 Broadcast TMC and Production Data Analyst at WTIU/WFIU - Indiana Public Media
-- 👨‍💻 Ex-SDE @MyEdMaster & Sr. Tech-SME @Bartleby
-- 🌐 Passionate about **Data, AI, Cloud, Security, Automation, MLOps, Full-Stack**
-- 🔧 Targeting roles in:
-  - **SRE**, **QA/Automation**, **Data Engineering**, **Cloud**, **MLOps**, and related
-  - **ML Engineering**, **Test Engineering**, **AI-Enabled Development**, and related
+- 🎓 CS Graduate (2025) @ Indiana University Bloomington  
+- 💼 Broadcast TMC & Production Data Analyst @ WTIU/WFIU – Indiana Public Media (Current)  
+- 👨‍💻 Former SDE @ MyEdMaster | Sr. Technical SME @ Bartleby Technologies  
+- 🌐 Passionate about **Data, AI, Cloud, Security, Automation, MLOps, Full-Stack**  
+- 🎯 Actively targeting roles in:  
+  - **Site Reliability Engineering (SRE)**, **QA/Automation**, **Data Engineering**, **Cloud**, **MLOps**, and related  
+  - **ML Engineering**, **Test Engineering**, **AI-Enabled Development**, and adjacent roles  
 - 📈 Advocate of clean, test-driven, and scalable systems
+
 
 ---
 
