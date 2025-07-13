@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:subhadramishrag@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/subhadra-mishra/">💼 LinkedIn</a> •
-  <a href="https://github.com/Subhadra-Mishra-iub">🌐 GitHub</a>
+  <a href="https://www.linkedin.com/in/subhadra-mishra/">💼 LinkedIn</a>
 </p>
 
 ---
