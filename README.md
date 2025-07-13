@@ -23,19 +23,6 @@
 
 ---
 
-### 📌 Notable Projects
-
-- 🩺 **[Nouveau Health Platform](https://github.com/Subhadra-Mishra-iub/nouveau_react_local.git)**  
-  Full-stack role-based patient system using React, Node.js, MySQL with OAuth and Socket.io.
-
-- ☁️ **[Scalable Cloud Analytics](https://github.com/Subhadra-Mishra-iub/Scalable-Cloud-Computing-for-Efficient-Big-Data-Analytics-A-Dask-Integration-Approach.git)**  
-  Big data processing on AWS using Dask + ECS/EFS. Accelerated ML model tuning by 71%.
-
-- ✈️ **[Airline Delay Predictor](https://github.iu.edu/sumishra/airlines-performance-data-analysis.git)**  
-  9+ years of airline data, EDA & SVM classifier, 93% accuracy in delay prediction.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
