@@ -18,7 +18,6 @@
 - 🔧 Targeting roles in:
   - **SRE**, **QA/Automation**, **Data Engineering**, **Cloud**, **MLOps**
   - **ML Engineering**, **Test Engineering**, **AI-Enabled Development**
-- 🛠️ Tools I use: `Python`, `React`, `Node.js`, `SQL`, `MongoDB`, `AWS`, `Docker`, `Terraform`, `Power BI`, `Jenkins`, `Kubernetes`
 - 📈 Advocate of clean, test-driven, and scalable systems
 
 ---
