@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Subhadra Mishra 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Subhadra+Mishra+👋;CS+Grad+%7C+AI+Explorer+%7C+Tech+Builder" alt="Typing SVG" />
+</h1>
+
 <p align="center">🧠 Writing code, googling errors, chasing breakthroughs</p>
 
 <p align="center">
@@ -9,29 +12,34 @@
 
 ---
 
-### 💡 A Little About Me
-- 🎓 CS Grad Student @ Indiana University Bloomington (GPA: 3.6)
-- 💼 Schedule Director @ WTIU/WFIU | Graduate TA @ IU
-- 👩‍💻 Ex-Software Developer @ MyEdMaster | Sr. SME @ Bartleby Technologies
-- 🌐 Passionate about AI, Security, Cloud Computing & Full-Stack Development
-- 🛠️ Tech Stack: Python, React, Node.js, MongoDB, SQL, Docker, AWS, Power BI
-- 😅 Still wondering why semicolons break things in JavaScript
+### 💡 About Me
+
+- 🎓 CS Graduate Student @ Indiana University Bloomington (GPA: 3.6)
+- 💼 Schedule Director at WTIU/WFIU | Graduate TA for Network Security
+- 👨‍💻 Ex Software Developer @ MyEdMaster | Sr. SME @ Bartleby Technologies
+- 🌟 Passionate about **Data, AI, MLOps, Cloud, Automation & Reliability Engineering**
+- 🧪 Targeting roles in:  
+  `SRE`, `QA/Automation`, `Data Engineering`, `Cloud`, `MLOps`, `ML Engineering`, `Test`, `AI-Enabled SD Engineering`
+- 🛠️ Tools I enjoy: `Python`, `React`, `Node.js`, `SQL`, `MongoDB`, `AWS`, `Docker`, `Terraform`, `Power BI`, `Jenkins`, `Kubernetes`
+- 📊 Strong believer in building scalable, reliable, and test-driven systems
 
 ---
 
-### 🔨 Projects I’m Proud Of
+### 📌 Featured Projects
 
-#### 🩺 [Nouveau Health Web Platform](https://github.com/Subhadra-Mishra-iub/nouveau_react_local.git)
-> React + Node.js + MySQL  
-Built a role-based health app with real-time communication, Google OAuth & 2FA
-
-#### ☁️ [Scalable Cloud Analytics Platform](https://github.com/Subhadra-Mishra-iub/Scalable-Cloud-Computing-for-Efficient-Big-Data-Analytics-A-Dask-Integration-Approach.git)
-> Python + Dask + AWS  
-Reduced ML model tuning time by 71% using distributed Dask on ECS + EFS
-
-#### ✈️ [Airline Performance Data Analysis](https://github.iu.edu/sumishra/airlines-performance-data-analysis.git)
-> Pandas + SVM  
-Predicted delays with 93% accuracy using 9+ years of flight data
+<p align="center">
+  <a href="https://github.com/Subhadra-Mishra-iub/nouveau_react_local.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subhadra-Mishra-iub&repo=nouveau_react_local&theme=radical" />
+  </a>
+  <a href="https://github.com/Subhadra-Mishra-iub/Scalable-Cloud-Computing-for-Efficient-Big-Data-Analytics-A-Dask-Integration-Approach.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Subhadra-Mishra-iub&repo=Scalable-Cloud-Computing-for-Efficient-Big-Data-Analytics-A-Dask-Integration-Approach&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.iu.edu/sumishra/airlines-performance-data-analysis.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumishra&repo=airlines-performance-data-analysis&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -48,7 +56,7 @@ Predicted delays with 93% accuracy using 9+ years of flight data
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/subhadra-mishra/)
 - 📧 [Email](mailto:subhadramishrag@gmail.com)
-- 💬 Let’s talk about full-stack projects, AI workflows, or just debugging misery
+- 💬 Reach out to discuss Cloud, Automation, ML, QA, or debug life!
 
 ---
 
