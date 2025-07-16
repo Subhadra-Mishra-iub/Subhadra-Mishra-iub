@@ -2,6 +2,10 @@
 <p align="center">🧠 Writing Code, Googling Errors, Chasing Breakthroughs</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhadra-Mishra-iub&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="mailto:subhadramishrag@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/subhadra-mishra/">💼 LinkedIn</a>
 </p>
