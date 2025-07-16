@@ -1,9 +1,8 @@
 <h1 align="center"><strong>Hi, I'm Subhadra Mishra 👋</strong></h1>
 <p align="center">🧠 Writing Code, Googling Errors, Chasing Breakthroughs</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhadra-Mishra-iub&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=Subhadra-Mishra-iub&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 
 <p align="center">
   <a href="mailto:subhadramishrag@gmail.com">📧 Email</a> •
