@@ -25,14 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhadra-Mishra-iub&show_icons=true&theme=radical" />
-</p>
-
----
-
 ### 🤝 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/subhadra-mishra/)
