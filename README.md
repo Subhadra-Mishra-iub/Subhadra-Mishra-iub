@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="mailto:subhadramishrag@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/subhadra-mishra/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/subhadra-mishra/">💼 LinkedIn</a> •
+  <a href="https://subhadra-mishra-iub.github.io/subhadramishra.github.io/">🌐 Portfolio</a>
 </p>
 
 ---
