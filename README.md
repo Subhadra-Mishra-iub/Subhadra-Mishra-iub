@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Subhadra-Mishra-iub&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 
 <p align="center">
-  <a href="https://subhadra-mishra-iub.github.io/subhadramishra.github.io/">🌐 Portfolio</a> •
+  <a href="https://subhadra-mishra-iub.github.io/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/subhadra-mishra/">💼 LinkedIn</a> •
   <a href="mailto:subhadramishrag@gmail.com">📧 Email</a> 
 </p>
